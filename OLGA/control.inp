@@ -1,0 +1,8 @@
+data_file equil.data
+traj_file equil.dump
+unwrap_xyz y
+scale_xyz y
+cleaveSC y
+parse_start 0
+parse_step 10
+parse_end 1000
