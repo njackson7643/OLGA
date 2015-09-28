@@ -27,7 +27,7 @@ string output = myparse.m_scale;
 string output2 = myparse.GetInpf();
 cout << output2;
 //Initialize input object with parameters from control.inp file
-
+//asdgasdgasdg
 //string output = myinput.GetInpf();
 //cout << output;
 //Do data parsing on trajectory file
